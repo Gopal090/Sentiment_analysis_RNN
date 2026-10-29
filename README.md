@@ -15,12 +15,6 @@ Embedding → SimpleRNN / LSTM / GRU → Dense (sigmoid) -->
 
 <!-- TODO: e.g. IMDB movie reviews, with size and train/test split -->
 
-## Results
-
-| Metric | Value |
-|--------|-------|
-| Training accuracy | <!-- TODO --> |
-| Test accuracy | <!-- TODO --> |
 
 ## Tech Stack
 
@@ -45,6 +39,3 @@ jupyter notebook
 - Use pretrained embeddings (GloVe, Word2Vec)
 - Compare with transformer-based models
 
-## License
-
-<!-- TODO -->****
